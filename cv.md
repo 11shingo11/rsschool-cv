@@ -50,7 +50,7 @@ I strive to continuously expand my tech stack and enhance my skills. I am always
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-483D8B?style=for-the-badge&logo=Clickhouse)
 ![linux](https://img.shields.io/badge/linux-483D8B?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-483D8B?style=for-the-badge&logo=Docker)
-![Docker](https://img.shields.io/badge/Docker-483D8B?style=for-the-badge&logo=SSH)
+
 ---
 
 ## Work Experience
@@ -132,13 +132,13 @@ def divided_by(b): return lambda a: a//b
 
 ## Projects
 
-</table>
+
 <ins>Unity projects</ins>
 
 - [SHMUP](https://github.com/11shingo11/Space-SHMUP)
 - [2D Dungeon game](https://github.com/11shingo11/Dungeon)
 - [Rougelike](https://github.com/11shingo11/Prjct_X)
-</table>
+
 
 ---
 
