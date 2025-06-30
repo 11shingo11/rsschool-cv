@@ -1,3 +1,5 @@
+![Header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY1Mm95eXZiZzlvb3o4ODJjbm1seXB6ZnpmMWEwdzF4emJxZ2V3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
+
 # Dmitry Shin
 *QA Engineer*
 
@@ -24,11 +26,31 @@ I strive to continuously expand my tech stack and enhance my skills. I am always
 
 - **Languages:** Python (for test automation), SQL, HTML, CSS, C# (basic), Kotlin (basic), JS/TS(basic)
 - **Frameworks & Libraries:** Selenium WebDriver, Pytest, BS4, Playwright, AXIOS, Requests, etc.
-- **Databases:** PostgreSQL, MySql
+- **Databases:** PostgreSQL, MySql, Clickhouse
 - **API Testing:** Postman, Swagger, Fiddler, Charles Proxy, SOAP, REST, JSON, XML, SoapUI
 - **Tools & Platforms:** Git, Atlassian Jira, TestRail, Qase, DevTools, PyCharm, Visual Studio, Android Studio, OpenShift, Kafka, Figma
 - **Testing Methodologies:** Test Planning, Test Case Design, Bug Reporting, Checklists, Functional, Regression, Integration, Smoke, UI, and Documentation Testing.
 
+![C#](https://img.shields.io/badge/C%20SHARP-483D8B?style=for-the-badge&logo=Csharp)
+![Unity](https://img.shields.io/badge/Unity-483D8B?style=for-the-badge&logo=Unity)
+![Python](https://img.shields.io/badge/Python-483D8B?style=for-the-badge&logo=Python)
+![Django](https://img.shields.io/badge/Django-483D8B?style=for-the-badge&logo=Django)
+![MySQL](https://img.shields.io/badge/MySQL-483D8B?style=for-the-badge&logo=MySQL)
+![PGitHub](https://img.shields.io/badge/GitHub-483D8B?style=for-the-badge&logo=GitHub)
+![jira](https://img.shields.io/badge/jira-483D8B?style=for-the-badge&logo=Jira)
+![Postman](https://img.shields.io/badge/Postman-483D8B?style=for-the-badge&logo=Postman)
+![Postgre](https://img.shields.io/badge/Postgre-483D8B?style=for-the-badge&logo=PostgreSQL)
+![JS](https://img.shields.io/badge/JavaScript-483D8B?style=for-the-badge&logo=JavaScript)
+![Figma](https://img.shields.io/badge/Figma-483D8B?style=for-the-badge&logo=Figma)
+![Kotlin](https://img.shields.io/badge/Kotlin-483D8B?style=for-the-badge&logo=Kotlin)
+![Swagger](https://img.shields.io/badge/Swagger-483D8B?style=for-the-badge&logo=Swagger)
+![Charles](https://img.shields.io/badge/Charles-483D8B?style=for-the-badge&logo=Charles)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-483D8B?style=for-the-badge&logo=AndroidStudio)
+![PyCharm](https://img.shields.io/badge/PyCharm-483D8B?style=for-the-badge&logo=PyCharm)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-483D8B?style=for-the-badge&logo=Clickhouse)
+![linux](https://img.shields.io/badge/linux-483D8B?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-483D8B?style=for-the-badge&logo=Docker)
+![Docker](https://img.shields.io/badge/Docker-483D8B?style=for-the-badge&logo=SSH)
 ---
 
 ## Work Experience
